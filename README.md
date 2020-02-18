@@ -2,7 +2,9 @@
 
 ## Plano
 
-Para saber o tema da disciplina, conteúdo, métodos de avaliação e mais, acesse o [Plano da Disciplina](https://github.com/poo-2019-1/aula-00-setup/blob/master/PLANO.md).
+Para saber o tema da disciplina, conteúdo, métodos de avaliação e mais, acesse o [Plano da Disciplina](https://github.com/fc-2020-1/aula-00-intro/blob/master/PLANO.md).
+
+Para uma visão geral do _"monstro"_, olhar o mapa mental aqui <https://coggle.it/diagram/W4Bm9OGhIlmldaNG/t/fundamentos-da-computa%C3%A7%C3%A3o/40c69e240b4937bed072950451436c90081f31c6bc06b0f63ed1707777fc14bc>.
 
 ## Contas
 
