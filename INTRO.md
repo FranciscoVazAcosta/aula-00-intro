@@ -48,7 +48,7 @@ Tipos ou funções:
 * computador dedicado: com hardware específico;
 * computador embarcado: hardware e software específico embutido.
 
-### Usos da Computação
+## Usos da Computação
 
 Setores empresariais tais como:
 
