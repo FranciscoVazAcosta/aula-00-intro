@@ -14,7 +14,7 @@ Use o GitHub para subir seus códigos e outros materiais; ou considere carregar 
 
 ## Softwares
 
-É necessário apenas o navegador Google Chrome.
+São necessários um navegador moderno, sugerido o Google Chrome, e um sistema operacional *nix, sugerido o Ubuntu ou Windows com bash instalado.
 
 ## Bibliografias
 
